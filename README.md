@@ -1,6 +1,6 @@
 # bash-util
 
-A small collection of shells scripts I use when dealing with github repos.
+A small collection of shell scripts I use when dealing with github repos.
 
 ## Installation
 
